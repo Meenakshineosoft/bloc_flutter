@@ -13,7 +13,7 @@ A few resources to get you started:
 - [Reference links:](https://medium.com/mobile-development-group/github-actions-for-flutter-cf02923d7b5d)
 
 
-##Creating a Workflow File
+## Creating a Workflow File
 The first thing you have to do is create a .yml file, which is a configuration file that Github Action can understand.
 
 You must store workflow files in the .github/workflows/ directory in your repository. You can name the file whatever you want, for this I have name it ci.yml.
